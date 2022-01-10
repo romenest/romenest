@@ -1,3 +1,7 @@
+### Intro
+Hi, I'm a developer who walks well alone, and **it's better to have someone to go with.**
+
+If you're reading this, **why don't you walk with me?**
 
 ### Skils
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
@@ -20,7 +24,7 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
  
-
+### State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romenest&show_icons=true&theme=dark)
 
 

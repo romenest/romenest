@@ -15,7 +15,7 @@ If you're reading this, **why don't you walk with me?**
 ### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:phs4517@gmail.com)](mailto:phs4517@gmail.com) 
 <a href="https://romenest.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/-Tstory-2c4c26?style=for-the-badge&logo=T-Story&logoColor=white">
+<img src="https://img.shields.io/badge/-Tstory-2c4c26?style=for-the-badge&logo=/e/&logoColor=white">
 ### Tools
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
